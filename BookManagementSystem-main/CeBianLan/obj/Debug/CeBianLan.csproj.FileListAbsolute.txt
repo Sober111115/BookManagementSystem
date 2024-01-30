@@ -1,0 +1,13 @@
+C:\Users\w555q\Desktop\CeBianLan\bin\Debug\CeBianLan.exe.config
+C:\Users\w555q\Desktop\CeBianLan\bin\Debug\CeBianLan.exe
+C:\Users\w555q\Desktop\CeBianLan\bin\Debug\CeBianLan.pdb
+C:\Users\w555q\Desktop\CeBianLan\bin\Debug\MaterialSkin.dll
+C:\Users\w555q\Desktop\CeBianLan\obj\Debug\CeBianLan.csproj.AssemblyReference.cache
+C:\Users\w555q\Desktop\CeBianLan\obj\Debug\CeBianLan.csproj.SuggestedBindingRedirects.cache
+C:\Users\w555q\Desktop\CeBianLan\obj\Debug\CeBianLan.CeBianLan.resources
+C:\Users\w555q\Desktop\CeBianLan\obj\Debug\CeBianLan.Properties.Resources.resources
+C:\Users\w555q\Desktop\CeBianLan\obj\Debug\CeBianLan.csproj.GenerateResource.cache
+C:\Users\w555q\Desktop\CeBianLan\obj\Debug\CeBianLan.csproj.CoreCompileInputs.cache
+C:\Users\w555q\Desktop\CeBianLan\obj\Debug\CeBianLan.csproj.CopyComplete
+C:\Users\w555q\Desktop\CeBianLan\obj\Debug\CeBianLan.exe
+C:\Users\w555q\Desktop\CeBianLan\obj\Debug\CeBianLan.pdb
